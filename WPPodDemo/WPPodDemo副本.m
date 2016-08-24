@@ -12,7 +12,10 @@
 @implementation WPPodDemo
 -(void)test
 {
+<<<<<<< HEAD
     NSLog(@"这是我的测试项目biubiu");
+=======
+>>>>>>> sdk2.0
     NSLog(@"这是我的测试项目     ");
 }
 
