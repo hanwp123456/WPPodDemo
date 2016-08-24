@@ -13,6 +13,7 @@
 -(void)test
 {
     NSLog(@"这是我的测试项目biubiu");
+    NSLog(@"这是我的测试项目     ");
 }
 
 @end
