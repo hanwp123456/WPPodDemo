@@ -11,4 +11,11 @@
 @interface WPPodDemo : NSObject
 -(void)test;
 
+
+
+
+
+-(void)testw;
+
+
 @end
