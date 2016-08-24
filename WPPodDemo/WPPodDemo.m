@@ -12,7 +12,7 @@
 @implementation WPPodDemo
 -(void)test
 {
-    NSLog(@"这是我的测试项目");
+    NSLog(@"这是我的测试项目     ");
 }
 
 @end
